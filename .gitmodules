@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:grabowskil/grabowskil.github.io.git
+	branch = main
+[submodule "themes/hugo-theme-cleanwhite-rsy"]
+	path = themes/hugo-theme-cleanwhite-rsy
+	url = git@github.com:youngkin/hugo-theme-cleanwhite-rsy.git
