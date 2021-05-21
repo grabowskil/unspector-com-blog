@@ -2,3 +2,27 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-cleanwhite-rsy"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[params]
+    title = "Unspector"
+    slogan = "unspecting the vastness of the universe"
+    SEOTitle = "Unspector Blog"
+    keyword = "Tech, Programming, Movies, Video Games, Tinkering, Finance, Philosphy"
+
+    # Sidebar Settings
+    about_me = false
+
+    featured_tags = true
+    featured_condition_size = 3
+
+    title_404 = "I'm sorry, my responses are limited. You must ask the right question."
+
+    omit_categories = false
+
+    [params.social]
+        rss = true
