@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://unspector.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Unspector Blog"
 theme = "hugo-theme-cleanwhite-rsy"
 
 [markup]
