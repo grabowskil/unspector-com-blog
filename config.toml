@@ -2,6 +2,7 @@ baseURL = "http://unspector.com/"
 languageCode = "en-us"
 title = "Unspector Blog"
 theme = "hugo-theme-cleanwhite-rsy"
+googleAnalytics = "G-FDEM7BC4PQ"
 
 [markup]
     [markup.goldmark]
