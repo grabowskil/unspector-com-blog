@@ -27,3 +27,5 @@ googleAnalytics = "G-FDEM7BC4PQ"
 
     [params.social]
         rss = true
+        linkedin = "https://www.linkedin.com/in/lennart-grabowski/"
+        github = "https://github.com/grabowskil"
