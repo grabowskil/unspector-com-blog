@@ -1,0 +1,11 @@
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading,
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+    color:#ff71ce
+}
+
+.intro-header .site-heading .subheading, .intro-header .page-heading .subheading {
+    color: #fffb96
+}
