@@ -15,13 +15,17 @@ googleAnalytics = "G-FDEM7BC4PQ"
     SEOTitle = "Unspector Blog"
     keyword = "Tech, Programming, Movies, Video Games, Tinkering, Finance, Philosphy"
 
+    title_404 = "I'm sorry, my responses are limited. You must ask the right question."
+
+    custom_css = [
+        "css/unspector-blog.css"
+    ]
+
     # Sidebar Settings
     about_me = false
 
     featured_tags = true
-    featured_condition_size = 3
-
-    title_404 = "I'm sorry, my responses are limited. You must ask the right question."
+    featured_condition_size = 2
 
     omit_categories = false
 
