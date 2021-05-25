@@ -66,7 +66,7 @@
     
     <!-- Custom Fonts -->
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
+  
     <!--
     <script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     -->
@@ -78,15 +78,15 @@
     
     <!-- Hux Theme JavaScript -->
     <script src="{{ "js/hux-blog.min.js" | relURL }}"></script>
-
+  
     <!--  Custom CSS  -->
     {{ range .Site.Params.custom_css -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
+    <link rel="stylesheet" href="{{ . | relURL }}">
     {{ end }}
 
     <!-- Custom JS -->
     {{ range .Site.Params.custom_js }}
-    <script src="{{ . | absURL }}"></script>
+    <script src="{{ . | relURL }}"></script>
     {{ end }}
 
 </head>
