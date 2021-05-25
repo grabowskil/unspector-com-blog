@@ -12,12 +12,13 @@ googleAnalytics = "G-FDEM7BC4PQ"
 [params]
     title = "Unspector"
     slogan = "unspecting the vastness of the universe"
+    favicon = "img/favicon.ico"
     SEOTitle = "Unspector Blog"
     keyword = "Tech, Programming, Movies, Video Games, Tinkering, Finance, Philosphy"
 
     title_404 = "I'm sorry, my responses are limited. You must ask the right question."
 
-    header_image = "images/unspector_bg.png"
+    header_image = "img/unspector_bg.png"
     custom_css = [
         "css/unspector-blog.css"
     ]
