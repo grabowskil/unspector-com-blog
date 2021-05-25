@@ -6,6 +6,7 @@
     color:#ff71ce
 }
 
-.intro-header .site-heading .subheading, .intro-header .page-heading .subheading {
+.intro-header .site-heading .subheading,
+.intro-header .page-heading .subheading {
     color: #fffb96
 }
