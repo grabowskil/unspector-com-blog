@@ -8,7 +8,7 @@ tags: [social media, technology, clubhouse, philosophy]
 categories: []
 ---
 
-# consuming unstructured information in real-time is neither efficient or satisfying
+# consuming unstructured audio information live is time intensive and difficult - so the very best creators are needed
 <!--more-->
 There are many reasons why clubhouse has been everywhere and why it somehow disappeared again from the public's mind. I am not predicting clubhouse to fail catastrophically, since both Snapchat and TikTok had their respective news- and hypecycles and artificial spotlights and grassroot movements. Clubhouse could get these cycles - often connected to rounds of venture capital investment - as well. But in this coverage downtime I'd like to examine major challenges clubhouse (and each of its inevitable copycat apps by facebook, twitter & co.) has to overcome.
 
