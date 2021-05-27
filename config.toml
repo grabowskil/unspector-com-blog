@@ -28,6 +28,7 @@ googleAnalytics = "G-FDEM7BC4PQ"
 
     featured_tags = true
     featured_condition_size = 2
+    featured_posts = true
 
     omit_categories = false
 
