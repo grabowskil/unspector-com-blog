@@ -4,7 +4,7 @@ date: 2021-05-26T07:22:50+02:00
 draft: false
 toc: false
 image: ""
-tags: [finance, blockchain, pokemon, tokenization, NFTs, economics]
+tags: [finance, blockchain, pokemon, tokenization, NFTs, economics, featured]
 categories: []
 ---
 
