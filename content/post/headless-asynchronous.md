@@ -4,7 +4,7 @@ date: 2021-05-25T07:05:11+02:00
 draft: false
 toc: false
 image: ""
-tags: [programming, CMS]
+tags: [programming, CMS, featured]
 categories: []
 ---
 
