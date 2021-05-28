@@ -1,5 +1,5 @@
 ---
-title: "Clubhouse is missing its USP at the moment"
+title: "Clubhouse is currently missing its USP"
 date: 2021-05-27T06:33:20+02:00
 draft: true
 toc: false
