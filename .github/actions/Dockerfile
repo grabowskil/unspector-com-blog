@@ -1,7 +1,6 @@
 FROM linuxbrew/brew:latest
 LABEL Name=unspectorcomblog Version=0.0.1
-COPY $GITHUB_WORKSPACE /unspector-com-blog
+COPY $GITHUB_WORKSPACE /
 RUN brew install hugo
-CMD cd unspector-com-blog \
-    && hugo -D \
+CMD hugo -D \
     && sh deploy.sh
