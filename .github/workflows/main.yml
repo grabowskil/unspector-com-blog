@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - run: echo pwd
-      - run: echo ls
+      - run: echo $(pwd)
+      - run: echo $(ls)
       - name: deploy and publish action
         uses: ./.github/actions/action
