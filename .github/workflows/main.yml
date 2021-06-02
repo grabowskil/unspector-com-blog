@@ -23,5 +23,6 @@ jobs:
       - run: echo $(pwd)
       - run: echo $(ls -a)
       - run: echo $(cd .github && ls -a)
+      - run: echo $(cd .github/actions && ls -a)
       - name: deploy and publish action
         uses: ./.github/actions/action
