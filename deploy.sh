@@ -19,8 +19,9 @@ hugo -D
 
 # Go To Public folder
 cd public
+CHANGED=$(git status --porcelain)
 
-if git diff-index --quiet HEAD --; then
+if $CHANGED; then
     echo "nothing to commit"
 	exit 0
 else
