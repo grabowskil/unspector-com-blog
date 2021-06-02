@@ -19,20 +19,28 @@ hugo -D
 
 # Go To Public folder
 cd public
+CHANGED=$(git status --porcelain)
 
-# Add 'public' (Github Pages repo) changes to git and commit/push.
-echo ""
-echo ""
-echo "Committing changes to $(pwd)"
-git add .
-git commit -m "$msg"
-git push origin main
+if $CHANGED; then
+    echo "nothing to commit"
+	exit 0
+else
+    # Add 'public' (Github Pages repo) changes to git and commit/push.
+	echo ""
+	echo ""
+	echo "Committing changes to $(pwd)"
+	git add .
+	git commit -m "$msg"
+	git push origin main
 
-# Add this repos changes to git and commit/push. First 'cd' out of public
-cd ..
-echo ""
-echo ""
-echo "Committing changes to $(pwd)"
-git add .
-git commit -m "$msg"
-git push origin master
+	# Add this repos changes to git and commit/push. First 'cd' out of public
+	cd ..
+	echo ""
+	echo ""
+	echo "Committing changes to $(pwd)"
+	git add .
+	git commit -m "$msg"
+	git push origin master
+fi
+
+exit 0
