@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - run: echo $(pwd)
-      - run: echo $(ls)
+      - run: echo $(ls -a)
       - run: echo $(ls .github)
       - run: echo $(ls .github/actions)
       - name: deploy and publish action
