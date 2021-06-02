@@ -4,4 +4,5 @@ COPY $GITHUB_WORKSPACE /
 # RUN brew install hugo
 CMD git fetch \
     && git pull --recurse-submodules \
-    && cd themes && ls -a
+    && cd themes/hugo-theme-cleanwhite-rsy/ && ls -a \
+    && ls -a layouts/_default
