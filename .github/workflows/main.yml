@@ -21,4 +21,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: deploy and publish action
-        uses: ./.github/actions/action.yml
+        uses: ./.github/actions/
