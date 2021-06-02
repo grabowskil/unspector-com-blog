@@ -3,5 +3,3 @@ description: 'deployes and publishes the site using hugo'
 runs:
     using: 'docker'
     image: 'Dockerfile'
-    args:
-      - ${{ secrets.GITHUB_TOKEN }}
