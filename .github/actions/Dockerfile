@@ -9,5 +9,5 @@ CMD eval $(ssh-agent -s) \
     && chmod 700 ~/.ssh \
     && git config --global user.email "grabowskil@users.noreply.github.com" \
     && git config --global user.name "unspector ci bot" \
-    && ssh-keyscan github.com >> ~/.ssh/known_hosts \
+    && ssh-keyscan -H github.com >> ~/.ssh/known_hosts \
     && ssh -T git@github.com
