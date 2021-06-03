@@ -20,7 +20,7 @@ hugo -D
 # Go To Public folder
 cd public
 
-if [ -z "$(git status --procelain)" ]; then
+if [ -z "$(git status --porcelain)" ]; then
     echo "nothing to commit"
 	exit 0
 else
