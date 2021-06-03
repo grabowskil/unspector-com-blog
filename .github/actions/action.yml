@@ -2,10 +2,10 @@ name: 'deploy and publish'
 description: 'deployes and publishes the site using hugo'
 inputs:
     token:
-        description: 'GitHub PAT'
+        description: 'SSH private key'
         required: true
 runs:
     using: 'docker'
     image: 'Dockerfile'
     env:
-        TOKEN: ${{ inputs.token }}
+        SSH_PRIVATE_KEY: ${{ inputs.token }}

@@ -22,4 +22,4 @@ jobs:
       - name: deploy and publish action
         uses: ./.github/actions/
         with:
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.SSH_TOKEN }}
