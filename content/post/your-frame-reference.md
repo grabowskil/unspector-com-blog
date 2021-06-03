@@ -1,7 +1,7 @@
 ---
 title: "What if your frame of reference is wrong?"
 date: 2021-06-01T07:22:10+02:00
-draft: true
+draft: false
 toc: false
 image: ""
 tags: [philosophy, organisation]
