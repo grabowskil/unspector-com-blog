@@ -28,12 +28,11 @@ jobs:
       - name: Build
         run: hugo
 
-      - name: Deploy
-        - name: Add & Commit
-          uses: EndBug/add-and-commit@v7
-          add: public
-          author_name: 'github-actions[bot]'
-          author_email: 'github-actions[bot]@users.noreply.github.com'
-          default_author: 'github-actions[bot]'
-          message: 'rebuilding site'
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v7
+        add: public
+        author_name: 'github-actions[bot]'
+        author_email: 'github-actions[bot]@users.noreply.github.com'
+        default_author: 'github-actions[bot]'
+        message: 'rebuilding site'
 
