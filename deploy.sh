@@ -19,9 +19,8 @@ hugo -D
 
 # Go To Public folder
 cd public
-CHANGED=$(git status --porcelain)
 
-if [ -z $CHANGED ]; then
+if [ -z $(git status --porcelain) ]; then
     echo "nothing to commit"
 	exit 0
 else
