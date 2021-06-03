@@ -29,11 +29,5 @@ jobs:
         run: hugo
 
       - name: Add & Commit
-        uses: EndBug/add-and-commit@v7
-        with:
-          add: public
-          author_name: 'github-actions[bot]'
-          author_email: 'github-actions[bot]@users.noreply.github.com'
-          default_author: 'github_actions'
-          message: 'rebuilding site'
+        run: cd public; if [ -z "$git status --porcelain)" ]; then echo "nothing to commit"; exit 0; else; git add .; git commit -m 'site rebuild'; git push origin main; exit 0
 
