@@ -1,5 +1,11 @@
 name: 'deploy and publish'
 description: 'deployes and publishes the site using hugo'
+inputs:
+    token:
+        description: 'GitHub PAT'
+        required: true
 runs:
     using: 'docker'
     image: 'Dockerfile'
+    env:
+        TOKEN: ${{ inputs.token }}
