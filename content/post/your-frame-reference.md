@@ -14,8 +14,8 @@ When one experiences something it gets added to their personal frame of referenc
 
 All of these experiences form a frame of reference: Did one brand deliver more on their promises than another? Did one company treat their employees better than another? Was one person more dependable than another?
 
-This creates easy heuristics to choose between two similar choices. Also this sets a dangerous precedent to settle for a low floor: What if a lot brands you ever interacted with fails to deliver on their promise in one way or another? What if a lot of companies you worked at treats their employees unfairly in their own way? What if a lot of persons you met is unreliable in different ways?
+This creates easy heuristics to choose between two similar choices. But this sets a dangerous precedent to settle for a low floor: What if a lot of brands you interacted with failed to deliver on their promise in one way or another? What if a lot of companies you worked at treated their employees unfairly in their own way? What if a lot of persons you met were unreliable in different ways?
 
 Your frame of reference could simply be wrong: "This is better than that.", can be an easy heuristic to decide fast, though it can also mean: "This is less bad than that."
 
-Before using the frame of reference heuristic, think: What would be the ideal solution? How would a brand, a company, or a person need to act? When the decision is hard, maybe decide against this ideal, instead of your possibly skewed frame of reference.
+Before using the frame of reference heuristic, think: What would be the ideal solution? How would a brand, a company, or a person need to act? When the decision is hard, maybe decide using this ideal, instead of your possibly skewed frame of reference.
