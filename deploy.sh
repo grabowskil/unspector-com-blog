@@ -21,7 +21,7 @@ hugo -D
 cd public
 CHANGED=$(git status --porcelain)
 
-if $CHANGED; then
+if [ -z $CHANGED ]; then
     echo "nothing to commit"
 	exit 0
 else
