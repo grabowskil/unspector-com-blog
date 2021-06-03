@@ -22,4 +22,4 @@ jobs:
       - name: deploy and publish action
         uses: ./.github/actions/
         with:
-          key: ${{ secrets.SSH_TOKEN }}
+          key: 'bla bla bla'
