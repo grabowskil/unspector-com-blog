@@ -21,5 +21,11 @@ jobs:
           submodules: recursive
       - name: deploy and publish action
         uses: ./.github/actions/
+        inputs:
+          key:
+            description: 'SSH private key'
+            required: true
+        with:
+          key: ${{ inputs.key }}
         # with:
         #   key: ${{ secrets.SSH_TOKEN }}
