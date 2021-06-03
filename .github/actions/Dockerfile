@@ -4,4 +4,9 @@ LABEL Name=unspectorcomblog Version=0.0.1
 # RUN brew install hugo
 # CMD sh deploy.sh
 CMD eval $(ssh-agent -s) \
-    && echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+    && echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - \
+    && mkdir -p ~/.ssh \
+    && chmod 700 ~/.ssh \
+    && git config --global user.email "grabowskil@users.noreply.github.com" \
+    && git config --global user.name "unspector ci bot" \
+    && ssh -T git@github.com
