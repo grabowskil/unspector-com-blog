@@ -21,5 +21,5 @@ jobs:
           submodules: recursive
       - name: deploy and publish action
         uses: ./.github/actions/
-        with:
-          key: 'bla bla bla'
+        # with:
+        #   key: ${{ secrets.SSH_TOKEN }}
