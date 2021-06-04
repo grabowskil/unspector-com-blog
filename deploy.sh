@@ -17,6 +17,9 @@ echo ""
 echo "Building with hugo"
 hugo -D
 
+echo "info:"
+git status
+
 # Go To Public folder
 cd public
 
@@ -34,9 +37,12 @@ else
 	echo "Committing changes to $(pwd)"
 	echo "remote branches:"
 	git remote -v
+	git status
 	git add .
 	git commit -m "$msg"
 	git push origin main
+	git fetch
+	git status
 
 	# # Add this repos changes to git and commit/push. First 'cd' out of public
 	# cd ..
