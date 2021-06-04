@@ -24,7 +24,7 @@ else
 
 	git remote -v
 
-    # # Add 'public' (Github Pages repo) changes to git and commit/push.
+    # Add 'public' (Github Pages repo) changes to git and commit/push.
 	# echo ""
 	# echo ""
 	# echo "Committing changes to $(pwd)"
@@ -33,7 +33,8 @@ else
 	# git push origin main
 
 	# # Add this repos changes to git and commit/push. First 'cd' out of public
-	# cd ..
+	cd ..
+	git remote -v
 	# echo ""
 	# echo ""
 	# echo "Committing changes to $(pwd)"
