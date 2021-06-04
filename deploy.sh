@@ -11,6 +11,12 @@ if [ -n "$*" ]; then
 	msg="$*"
 fi
 
+# Build the project.
+echo ""
+echo ""
+echo "Building with hugo"
+hugo -D
+
 # Go To Public folder
 cd public
 
