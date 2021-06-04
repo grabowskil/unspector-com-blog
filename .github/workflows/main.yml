@@ -29,5 +29,5 @@ jobs:
         run: hugo
 
       - name: Add & Commit
-        run: cd public; if [ -z "$git status --porcelain)" ]; then echo "nothing to commit"; exit 0; else; git add .; git commit -m 'site rebuild'; git push origin main; exit 0
+        run: cd public; if [ -z "$git status --porcelain)" ]; then; echo "nothing to commit"; exit 0; else; git add .; git commit -m 'site rebuild'; git push origin main; exit 0; fi; exit 0
 
