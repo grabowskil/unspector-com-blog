@@ -38,7 +38,7 @@ else
 	echo "remote branches:"
 	git remote -v
 	git status
-	git add .
+	git add --all
 	git commit -m "$msg"
 	git push origin main
 	git fetch
