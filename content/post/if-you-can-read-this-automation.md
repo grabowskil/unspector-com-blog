@@ -18,4 +18,4 @@ Some things I learned:
 * Built-in logging ist much more structured, than Gitlab's
 * When GitHub's marketplace doesn't have, what you are looking for, you can work around this with simple shell scripts, if this doesn't help, you are out of luck
 
-GitHub actions definitely hint at the upcoming low code future, where the hard work has been done by someone else and you just put the pieces together.
+GitHub actions definitely hints at the upcoming low code future, where the hard work has been done by someone else and you just put the pieces together.

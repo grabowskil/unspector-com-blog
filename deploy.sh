@@ -22,22 +22,24 @@ else
 	git config --global user.email 'github-actions[bot]'
 	git config --global user.name 'github-actions[bot]@users.noreply.github.com'
 
-    # Add 'public' (Github Pages repo) changes to git and commit/push.
-	echo ""
-	echo ""
-	echo "Committing changes to $(pwd)"
-	git add .
-	git commit -m "$msg"
-	git push origin main
+	git remote -v
 
-	# Add this repos changes to git and commit/push. First 'cd' out of public
-	cd ..
-	echo ""
-	echo ""
-	echo "Committing changes to $(pwd)"
-	git add .
-	git commit -m "$msg"
-	git push origin master
+    # # Add 'public' (Github Pages repo) changes to git and commit/push.
+	# echo ""
+	# echo ""
+	# echo "Committing changes to $(pwd)"
+	# git add .
+	# git commit -m "$msg"
+	# git push origin main
+
+	# # Add this repos changes to git and commit/push. First 'cd' out of public
+	# cd ..
+	# echo ""
+	# echo ""
+	# echo "Committing changes to $(pwd)"
+	# git add .
+	# git commit -m "$msg"
+	# git push origin master
 fi
 
 exit 0
