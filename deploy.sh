@@ -11,12 +11,6 @@ if [ -n "$*" ]; then
 	msg="$*"
 fi
 
-# Build the project.
-echo ""
-echo ""
-echo "Committing changes to $(pwd)"
-hugo -D
-
 # Go To Public folder
 cd public
 
