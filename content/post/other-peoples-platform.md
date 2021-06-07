@@ -4,7 +4,7 @@ date: 2021-06-04T18:21:39+02:00
 draft: true
 toc: false
 image: ""
-tags: [economics, technology]
+tags: [economics, technology, social media]
 categories: []
 ---
 
@@ -16,9 +16,7 @@ On the other hand is a widening skill and resource gap to put content on the int
 
 When you post an informative video on YouTube, which millions of people want to see, Google feeds first. When you publish an app on the AppStore, Apple feeds first. Publishing content on facebook is a pennyless effort in and of itself. And creating your own website is rather expensive compared to ad based platforms.
 
-This wasn't always the case: companies like Adobe profitted from low barriers to entry and were able to publish their application with no additional fees to the platform holder. This shift from platforms to be used by application providers at no additional cost to platforms provided to the consumer at low cost and asking to pay application providers and content creators for a share of their pie is at the heart of the Epic v. Apple lawsuit.
+If you want to demonstrate the value of your content, you need to show you yourself find this content valuable. Other people consuming your content may notice if you yourself thought your content valuable enough to host it on your own time, space and money.<br />
+At the same time you won't reach as many people in a short time and it will take longer for your content to get discovered (if it gets discovered at all).
 
-When you have content, you'd like to put on the internet ask yourself: Is this content valuable enough to merit its own platform? Are you skilled enough or is the expected profit offsetting the cost of letting the platform build? If you expect it to be valuable enough, go ahead and build the corresponding platform.<br />
-More often than not the content won't be valuable enough to compensate for the higher costs providing it on its own platform. Hosting and maintaining your own website is a costly endeavour compared to creating a social media profile. Hosting an eShop yourself takes a lot of maintenance costs and resources away from getting better product shots or helping your sales with campaigns. Building an application and marketing it outside the common app stores is a challenge.
-
-But these gambles can pay off, when you provide really valuable content. And what is valuable content and what not cannot be predicted most of the times. Therefore it doesn't really matter where you host your content, the end user should always have the illusion you are hosting it yourself and therefore considering it valuable enough.
+Be opportunistic: Host a space for your content yourself and demonstrate its value, but also use other people's platform to promote your content. You don't owe platforms your content.
