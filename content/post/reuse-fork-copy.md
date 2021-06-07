@@ -4,7 +4,7 @@ date: 2021-06-07T13:43:13+02:00
 draft: false
 toc: false
 image: ""
-tags: [programming, philosophy, organisation]
+tags: [programming, philosophy, organisation, featured]
 categories: []
 ---
 
