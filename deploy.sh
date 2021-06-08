@@ -15,7 +15,7 @@ fi
 echo ""
 echo ""
 echo "Building with hugo"
-hugo -D
+hugo
 
 echo "info:"
 git status
@@ -27,10 +27,6 @@ if [ -z "$(git status --porcelain)" ]; then
     echo "nothing to commit"
 	exit 0
 else
-	# Identify as runner
-	git config --global user.email 'github-actions[bot]'
-	git config --global user.name 'github-actions[bot]@users.noreply.github.com'
-
     # Add 'public' (Github Pages repo) changes to git and commit/push.
 	echo ""
 	echo ""
@@ -44,16 +40,16 @@ else
 	git fetch
 	git status
 
-	# # Add this repos changes to git and commit/push. First 'cd' out of public
-	# cd ..
-	# echo ""
-	# echo ""
-	# echo "Committing changes to $(pwd)"
-	# echo "remote branches:"
-	# git remote -v
-	# git add .
-	# git commit -m "$msg"
-	# git push origin master
+	# Add this repos changes to git and commit/push. First 'cd' out of public
+	cd ..
+	echo ""
+	echo ""
+	echo "Committing changes to $(pwd)"
+	echo "remote branches:"
+	git remote -v
+	git add .
+	git commit -m "$msg"
+	git push origin main
 fi
 
 exit 0
