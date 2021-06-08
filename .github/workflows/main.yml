@@ -40,13 +40,6 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: ${{ github.event.head_commit.message }}
-      
-      - name: checkout submodules again
-        uses: actions/checkout@v2
-        with:
-          submodules: recursive
-          fetch-depth: 0
-          token: ${{ secrets.PAT }}
 
       - name: add & commit
         uses: EndBug/add-and-commit@v7
