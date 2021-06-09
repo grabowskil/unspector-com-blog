@@ -1,7 +1,7 @@
 ---
 title: "Influence the market or participant"
 date: 2021-06-04T21:35:04+02:00
-draft: true
+draft: false
 toc: false
 image: ""
 tags: [economics, philosophy]
