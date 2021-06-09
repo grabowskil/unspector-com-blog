@@ -1,6 +1,6 @@
 ---
 title: "Reuse, Fork, Copy, Credit"
-date: 2021-06-07T13:43:13+02:00
+date: 2021-06-08T13:43:13+02:00
 draft: false
 toc: false
 image: ""

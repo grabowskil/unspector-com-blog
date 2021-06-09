@@ -1,6 +1,6 @@
 ---
 title: "Influence the market or participant"
-date: 2021-08-04T21:35:04+02:00
+date: 2021-06-09T21:35:04+02:00
 draft: false
 toc: false
 image: ""

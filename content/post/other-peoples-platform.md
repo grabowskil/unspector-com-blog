@@ -1,6 +1,6 @@
 ---
 title: "Other People's Platforms"
-date: 2021-06-04T18:21:39+02:00
+date: 2021-06-07T18:21:39+02:00
 draft: false
 toc: false
 image: ""
