@@ -27,7 +27,7 @@ googleAnalytics = "G-FDEM7BC4PQ"
     about_me = false
 
     featured_tags = true
-    featured_condition_size = 2
+    featured_condition_size = 3
     
     featured_posts = true
 
