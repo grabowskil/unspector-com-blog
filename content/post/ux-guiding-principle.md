@@ -1,7 +1,7 @@
 ---
 title: "Make UX your guiding principle"
 date: 2021-06-20T14:32:31+02:00
-draft: true
+draft: false
 toc: false
 image: ""
 tags: [ux, programming, organisation]
@@ -19,4 +19,4 @@ Though, after we thought hard about the problem and explored possible solutions 
 
 Just because we know something works, it doesn't mean anyone else will believe us. To convince everyone that our product works, it needs to look like it is working. And this means the second challenge is much harder and much more important.
 
-If you take on a project, because you think you can solve the first challenge, solve the second challenge first. Make it look like it works and make it work then.
+If you take on a project, because you think you can solve the first challenge, solve the second challenge first. Make it look like it works and then make it work.
