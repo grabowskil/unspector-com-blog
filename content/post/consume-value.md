@@ -1,7 +1,7 @@
 ---
 title: "Consume Value"
 date: 2021-07-21T22:16:33+02:00
-draft: true
+draft: false
 toc: false
 image: ""
 tags: [economics, philosophy, NFTs]
