@@ -25,4 +25,4 @@ But all of these pictures are inherently two-dimensional, taken from the view po
 
 Drone photography is here to change that and democratize aerial view points. Where one needed to climb a high mountain to photograph a valley or needed to pay high sums for a helicopter ride, drones are cheap, easy to use and position independet.
 
-I think drones could be the beginning of a change not unlike color-film: Taking photographs and making films was possible before the rise of color-film. But it has been a dramatic change nonetheless.
+I think drones could be the beginning of a change not unlike color-film: Taking photographs and making films was possible before the rise of color-film. But it has been a dramatic change how we perceive our environment nonetheless. Viewing beautiful nature or influences of pollution or even our own home from above gives us a new, three dimensional perspective.
