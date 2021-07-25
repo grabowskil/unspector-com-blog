@@ -4,7 +4,7 @@ date: 2021-07-24T06:27:42+02:00
 draft: false
 toc: false
 image: ""
-tags: [economics, streaming, netflix, disney]
+tags: [economics, streaming, netflix, disney, featured]
 categories: []
 ---
 

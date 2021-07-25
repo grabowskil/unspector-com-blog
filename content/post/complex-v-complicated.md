@@ -4,7 +4,7 @@ date: 2021-05-24T13:01:52+02:00
 draft: false
 toc: false
 image: ""
-tags: [linguistic, programming, watches, statistics, featured]
+tags: [linguistic, programming, watches, statistics]
 categories: []
 ---
 
