@@ -1,7 +1,7 @@
 ---
 title: "More of the same, please"
-date: 2021-08-02T11:36:29+02:00
-draft: true
+date: 2021-08-02T07:13:29+02:00
+draft: false
 toc: false
 image: ""
 tags: [ai, algorithms, programming, philosophy]

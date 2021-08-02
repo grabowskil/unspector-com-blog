@@ -1,7 +1,7 @@
 ---
 title: "More of what you order me to do, please"
-date: 2021-08-02T12:38:42+02:00
-draft: true
+date: 2021-08-03T07:11:42+02:00
+draft: false
 toc: false
 image: ""
 tags: [ai, algorithms, programming, philosphy]
