@@ -1,7 +1,7 @@
 ---
 title: "More of the same, please"
-date: 2021-08-02T11:36:29+02:00
-draft: true
+date: 2021-08-02T07:13:29+02:00
+draft: false
 toc: false
 image: ""
 tags: [ai, algorithms, programming, philosophy]
@@ -16,11 +16,12 @@ This is genius and can genuinely help your customers, though the applications ar
 
 But we can recognize a challenge, when we try to use the underlying algorithm for substitutes: People who listened, what you listened to, also listend to this. People who read the books you read, also read these books. People who watched, what you watched, also watched this.
 
-Using this logic for substitutes creates a negative feedback loop: you will get more of the same and adhering to the recommendations means everyone else gets more of the same, too. This algorithm can work, if the observed group is ignoring the recommendations and is actively looking for things to buy, listen to, read and watch, which are not recommended by the algorithm. The people choosing not to do what the algorithm recommends would become some collective thought or trend leader, guiding the algorithm to better results. Everyone using the algorithm passively would profit immensly from this collective. But if everyone is using the algorithm passively the results get worse for everyone.
+Using this logic for substitutes creates a negative feedback loop: you will get more of the same and adhering to the recommendations means everyone else gets more of the same, too. This algorithm can work, if the observed group is ignoring the recommendations and is actively looking for things to buy, listen to, read and watch, which are not recommended by the algorithm. The people choosing not to do what the algorithm recommends would become some collective thought or trend leader, guiding the algorithm to better results. Everyone using the algorithm passively would profit immensely from this collective.<br />
+But if everyone is using the algorithm passively the results get worse for everyone.
 
 Since humans cannot get enough of a good thing right up until they can, we may not recognize the creeping sameness until it is too late: as the algorithm influences the consumers, it influences the producers. If we only buy, listen to, read and watch the same things over and over again, then these same things will be all that is produced in the end.
 
-Big tech companies and aligned startups want to sell these reductive algorithms as AI. They are not. As long as algorithms don't recommend things not based on our aggregated buying, watching, reading and listening history, but based on wholistic metrics we cannot even imagine, they are just more of the same "customers who bought, what you bought, also bought this". Which may seem smart, at times, but is nothing more than sleight of hand.
+Big tech companies and aligned startups want to sell these reductive algorithms as AI. They are not. As long as algorithms don't recommend things not based on our aggregated buying, watching, reading and listening history, but based on wholistic metrics we cannot even imagine, they are just more of the same "customers who bought, what you bought, also bought this". Which may seem smart, at times, but is nothing more than sleight of hand. This gets revealed when you buy a washing machine and get recommended ... another washing machine. Artificial or not, this is not intelligence.
 
 We will recognize the moment algorithms become AI-like, if a streaming service recommends something, which we will like and cannot trace back to things we previously showed interest in.<br />
 Up until then: Sometimes choose what the algorithm didn't recommend. At least this will make the recommendations better for everyone else, while we wait for proper AI.
