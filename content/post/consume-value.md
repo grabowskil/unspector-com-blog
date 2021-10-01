@@ -16,7 +16,7 @@ Consuming value can be most easily imagined to exist, when we eat food: Someone 
 
 Or is it? We pay the MacBook and the food with our own money, which changes hands and keeps on existing, even though it is not with us anymore, but with someone else. This must be true for every added value everytime, which means we are participating in an inflationary system, just by buying and producing stuff, which is worth more than its parts.
 
-And this is where speculation comes in: Buy anything, with the intent to sell it at a later date and you expose yourself to the risk of ending on the losing side of this transaction. This is where all generated value gets consumed, or is it? You may have bought a house, a share or an NFT. If its value goes up? Good for you! But if it goes down, value has just been consumed.
+And this is where speculation comes in: Buy anything, with the intent to sell it at a later date and you expose yourself to the risk of ending on the losing side of this transaction. This is where all generated value gets consumed. You may have bought a house, a share or an NFT. If its value goes up? Good for you! But if it goes down, value has just been consumed.
 
 Or has it? You paid someone to buy that NFT, who has your money now, the difference between your bid and your ask has been felt by you, but the monetary value stays in the system.
 
