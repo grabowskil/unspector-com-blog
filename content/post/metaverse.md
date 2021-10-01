@@ -1,7 +1,7 @@
 ---
 title: "Beyond the universe"
 date: 2021-08-17T16:06:06+02:00
-draft: true
+draft: false
 toc: false
 image: ""
 tags: [technology, internet, ar, vr, video games]
@@ -10,11 +10,11 @@ categories: []
 
 # the metaverse has been here a few times already
 <!--more-->
-The metaverse is an abstract concept far beyond the current virtual reality concepts of some silicon valley VCs and describes a transcendence of our spacial universe. Everyone who plays video games can attest: This has happened a few times already.
+The metaverse is an abstract concept and describes a transcendence of our universe into a virtual 3D space. This is the sales pitch at least. Everyone who plays video games can attest: Virtual 3D spaces do exist already.
 
-The metaverse is not an scientific concept, but an unspecific collection of ideas borrowed from late nineties science-fiction authors. Their vision of shared 3D spaces, may have been revolutionary at the time, but they precede a lot of development in online multiplayer video games.
+The metaverse is not an scientific concept, but an unspecific collection of ideas borrowed from late nineties science-fiction authors. Their vision of shared 3D spaces may have been revolutionary at the time, but they precede a lot of advancements in online multiplayer video games, we take for granted today.
 
-MMOs are not new and everyone of them fits the definition of a metaverse - if it is happening in virtual reality or not. But MMOs lack a crucial link: A safe way to maintain the body in our universe. This consists of all bodily functions as well as getting a minimal amount of excercise and being able to buy food and shelter. Additionally the equipment for these Metaverses need to be developed and build in the real world. Therefore it is unlikely that any virtual reality concept can satisfy the requirements for a true metaverse and will only achieve what video games did for decades.
+MMOs are not new and nearly everyone of them fits the definition of a metaverse - if it is happening in virtual reality or not. But MMOs lack a crucial link: A safe way to maintain the body in our universe. This consists of all bodily functions as well as getting a minimal amount of excercise and being able to buy and pay for food and shelter. Additionally the equipment (PCs, input devices, VR headsets, etc.) for these metaverses need to be developed and build in the real world. Therefore it is unlikely that any virtual reality concept can satisfy the requirements of transcending our universe completely and will only achieve what video games do for decades.
 
 Though what can reach metaverse-like qualities is augmented reality. AR is happening in the real world, therefore the body can be preserved and the relevant equipment can be developed and build. Experiments like Pokémon Go already showed that participants of AR experiences excersize more instead of less.
 
