@@ -1,6 +1,6 @@
 ---
 title: "scalping is price discovery as intended"
-date: 2021-12-15T17:53:35+01:00
+date: 2021-12-15T19:53:35+01:00
 draft: false
 toc: false
 image: ""
