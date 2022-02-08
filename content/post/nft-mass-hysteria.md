@@ -1,11 +1,11 @@
 ---
 title: "The discussion around NFTs is mass hysteria all around"
-date: 2022-02-08T10:21:10+01:00
-draft: true
+date: 2022-02-08T07:10:11+01:00
+draft: false
 toc: false
 image: ""
 tags: []
-categories: []
+categories: [tokenization, NFTs, philosophy, society, featured]
 ---
 
 # When a technology is misunderstood by everyone, is it doomed to fail?
