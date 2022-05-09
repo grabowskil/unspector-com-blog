@@ -4,7 +4,7 @@ date: 2022-05-09T21:22:40+02:00
 draft: true
 toc: false
 image: ""
-tags: [programming, technology, philosophy, vr]
+tags: [programming, technology, vr]
 categories: []
 ---
 

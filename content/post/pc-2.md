@@ -4,7 +4,7 @@ date: 2022-05-09T18:06:28+02:00
 draft: false
 toc: false
 image: ""
-tags: [economics, pc, interent, featured]
+tags: [economics, pc, programming, featured]
 categories: []
 ---
 
