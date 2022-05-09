@@ -1,7 +1,7 @@
 ---
 title: "If PC is so great, why is there no PC 2?"
 date: 2022-05-09T15:50:28+02:00
-draft: true
+draft: false
 toc: false
 image: ""
 tags: [economics, pc, interent, featured]
