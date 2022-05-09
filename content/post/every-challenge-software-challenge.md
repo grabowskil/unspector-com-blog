@@ -1,10 +1,10 @@
 ---
 title: "Every challenge becomes a software challenge eventually"
-date: 2022-05-09T21:22:40+02:00
-draft: true
+date: 2022-05-09T18:19:40+02:00
+draft: false
 toc: false
 image: ""
-tags: [programming, technology, philosophy, vr]
+tags: [programming, technology, vr]
 categories: []
 ---
 
