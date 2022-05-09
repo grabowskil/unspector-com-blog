@@ -1,7 +1,7 @@
 ---
 title: "Emergent Realities"
-date: 2021-09-30T06:43:46+02:00
-draft: true
+date: 2022-05-09T06:43:46+02:00
+draft: false
 toc: false
 image: ""
 tags: [philosophy, economics, finance, cryptocurrency]
